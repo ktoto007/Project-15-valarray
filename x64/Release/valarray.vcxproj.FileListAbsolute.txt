@@ -1,0 +1,2 @@
+C:\Users\levin\Desktop\CourseCPP\valarray\x64\Release\valarray.exe
+C:\Users\levin\Desktop\Не выгружено\CourseCPP\valarray\x64\Release\valarray.exe
